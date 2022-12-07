@@ -12,3 +12,6 @@ The basic purpose of a conventional switch is to save power whenever the device 
 But the recent study says that this very basic purpose of the switch is not served. This demands 
 an alternative controlling device such as AI induced home automation which can effectively 
 conserve power. There by making our home or a industry much smarter than before.
+
+
+![image](https://user-images.githubusercontent.com/119934119/206199558-c5071b70-b4a1-4a12-9885-72dada739888.png)
